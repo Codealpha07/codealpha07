@@ -55,12 +55,6 @@ A 2nd year IT student at IIIT Gwalior :)
 - [LinkedIn](https://www.linkedin.com/in/devugupta/)
 - GitHub: [Codealpha07](https://github.com/Codealpha07/)
 
----
-
-### ☕ Fun Fact
-
-I code hard, sleep harder.  
-If you see me online at 3AM, I’m either fixing a bug or dreaming of one.
 
 ---
 
