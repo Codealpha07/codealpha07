@@ -49,6 +49,11 @@
 
 ## 🌟 Featured Projects
 
+### 📄 [IntelliDoc](https://github.com/Codealpha07/IntelliDoc)
+Intelligent Document Structure & Content Analysis Platform that leverages AI to analyze and process document content and structure.
+
+**Tech Stack:** Python • Docker • AI/ML
+
 ### 🌆 [CivicSense](https://github.com/Codealpha07/civicsense) | [🔴 Live Demo](https://civicsense-4861.onrender.com/)
 Smart civic issue reporting platform that bridges citizens and local authorities using AI-powered photo analysis for automatic issue detection and smart department routing.
 
