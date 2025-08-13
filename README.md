@@ -17,7 +17,7 @@
 
 - 🌱 I'm currently learning **Advanced Backend Architecture & DevOps**
 - 💬 Ask me about **Full Stack Development, AI/ML, and System Design**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **guptadevu321@gmail.com**
 - ⚡ Fun fact: **I can debug code faster than I can wake up in the morning!**
 
 ## 🏆 GitHub Trophies
@@ -46,6 +46,19 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codealpha07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codealpha07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codealpha07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+</div>
+
+---
 
 ## 🌟 Featured Projects
 
@@ -115,18 +128,7 @@ A powerful Chrome extension delivering natural, multilingual audio synthesis thr
 - **APIs:** Murf API (Text-to-Speech)
 - **UI:** Material Design Components
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codealpha07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codealpha07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codealpha07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</div>
-
+---
 ##
 
 <div align="center">
