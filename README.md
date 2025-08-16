@@ -129,13 +129,6 @@ A powerful Chrome extension delivering natural, multilingual audio synthesis thr
 - **UI:** Material Design Components
 
 ---
-##
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Codealpha07/Codealpha07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
 
