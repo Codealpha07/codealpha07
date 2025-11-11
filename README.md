@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**2nd year IT student at IIIT Gwalior | Full Stack Developer | AI Enthusiast**
+**A 3rd year IT student at IIIT Gwalior ML-DL engineer| Data scientist | Full Stack Developer | AI Enthusiast**
 
 *Debugging life one nap at a time* ☕💤
 
