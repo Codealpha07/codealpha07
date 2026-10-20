@@ -170,9 +170,7 @@ I choose tools based on the problem, while continuing to deepen my fundamentals.
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Codealpha07&hide_border=true&background=09090F&ring=A78BFA&fire=8B7CFF&currStreakLabel=A78BFA&sideLabels=C4C4D4&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=77778A" alt="GitHub contribution streak"/>
 
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codealpha07&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=C4C4D4" alt="Most-used programming languages"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codealpha07&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=C4C4D4" alt="Most-used programming languages"/>
 
 </div>
 
