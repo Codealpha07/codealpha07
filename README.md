@@ -18,12 +18,6 @@ Exploring AI/ML, backend systems & full-stack engineering.
 
 [GitHub](https://github.com/Codealpha07) · [LinkedIn](https://www.linkedin.com/in/devugupta/) · [Email](mailto:guptadevu321@gmail.com)
 
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-8B7CFF?style=flat-square&labelColor=11111B" alt="AI and ML"/>
-<img src="https://img.shields.io/badge/BUILDING-BACKEND%20%26%20SYSTEMS-8B7CFF?style=flat-square&labelColor=11111B" alt="Backend and systems"/>
-<img src="https://img.shields.io/badge/INTEREST-FULL--STACK-8B7CFF?style=flat-square&labelColor=11111B" alt="Full stack"/>
-
 </div>
 
 ---
