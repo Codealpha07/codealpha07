@@ -80,14 +80,6 @@ I enjoy turning ideas into working products, learning through building, and cont
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codealpha07&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
