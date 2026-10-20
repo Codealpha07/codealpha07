@@ -11,7 +11,7 @@
 
 **I build software to understand problems, not just solve tickets.**
 
-Third-year IT student @ IIIT Gwalior  
+Pre-Final Year IT student @ IIIT Gwalior  
 Exploring AI/ML, backend systems & full-stack engineering.
 
 <br/>
@@ -41,10 +41,10 @@ My work spans **machine learning, intelligent applications, backend architecture
 ```text
 INTERESTS
 
-01   Machine Learning       →  Models that solve practical problems
-02   Backend Engineering    →  APIs, architecture, and data systems
-03   Systems Programming    →  Storage, concurrency, and networking
-04   Product Engineering    →  Useful software, built end to end
+- Machine Learning       →  Models that solve practical problems
+- Backend Engineering    →  APIs, architecture, and data systems
+- Systems Programming    →  Storage, concurrency, and networking
+- Product Engineering    →  Useful software, built end to end
 ```
 
 ---
@@ -69,8 +69,6 @@ The goal is to investigate how behavioral patterns and data-driven methods can h
 
 Traffic Safety · Machine Learning · Driving Behavior
 
-<br/>
-
 [↗ View project](https://github.com/sneharathod7/AUTOMATED-TRAFFIC-CONFLICT-PREDICTION-AND-UNSAFE-DRIVING-BEHAVIOR-ANALYSIS)
 
 </td>
@@ -87,8 +85,6 @@ A project centered on storage fundamentals rather than another application-layer
 **Domain**
 
 C++ · Storage Systems · Networking
-
-<br/>
 
 [↗ View project](https://github.com/Codealpha07/AlphaDB--Key-Value-Store)
 
@@ -109,8 +105,6 @@ Combines document parsing, OCR, and transformer-based search in an AI-oriented w
 
 Python · NLP · Information Retrieval
 
-<br/>
-
 [↗ View project](https://github.com/Codealpha07/IntelliDoc)
 
 </td>
@@ -127,8 +121,6 @@ An exploration of how backend services and interactive interfaces can work toget
 **Domain**
 
 Full-Stack · APIs · Geospatial Applications
-
-<br/>
 
 [↗ View project](https://github.com/Codealpha07/civicsense)
 
